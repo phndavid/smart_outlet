@@ -1,0 +1,22 @@
+{
+  "name": "smartoutlet_client",
+  "version": "1.0.0",
+  "description": "Smart Outlet Energy Client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phndavid13/smartoutlet_client.git"
+  },
+  "author": "N. David Padilla H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phndavid13/smartoutlet_client/issues"
+  },
+  "homepage": "https://github.com/phndavid13/smartoutlet_client",
+  "dependencies": {
+    "mqtt": "^1.7.4"
+  }
+}
