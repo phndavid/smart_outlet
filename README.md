@@ -1,2 +1,2 @@
-# smartoutlet_client
+# Smart Outlet
 Smart Outlet Energy
